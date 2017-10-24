@@ -19,5 +19,5 @@
         android:layout_width="384dp"
         android:layout_height="411dp"
         android:entries="@array/home_options" />
-    
+
 </LinearLayout>
