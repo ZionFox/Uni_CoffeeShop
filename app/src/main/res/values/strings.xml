@@ -6,4 +6,10 @@
     <string name="ddesc_late">A couple of espresso shots with steamed milk.</string>
     <string name="ddesc_cappuccino">Espresso, hot milk, and a steamed milk foam.</string>
     <string name="ddesc_filtered">Highest quality beans roasted and brewed fresh.</string>
+    <string name="starbuzz_logo">Starbuzz Coffee</string>
+    <string-array name="home_options">
+        <item>Drinks</item>
+        <item>Food</item>
+        <item>Stores</item>
+    </string-array>
 </resources>
